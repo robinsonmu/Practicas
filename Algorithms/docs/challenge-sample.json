@@ -1,0 +1,13 @@
+{  
+    "challenges": [{  
+        "test-page": {  
+            "headerText": "My Challenge Test",
+            "imageLink": "http://localhost:4502/content/dam/challenge/image.png",
+            "ctaButton": {  
+                "enabled": true,
+                "btnText": "Buy Now",
+                "btnColor": "#FFFFFF"
+            }
+        }
+    }]
+}
